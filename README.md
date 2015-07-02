@@ -1,4 +1,4 @@
-lucky-draw-slot-machine
+Lucky Draw Slow Machine
 =======================
 
 A Slot Machine for Lucky Draw
